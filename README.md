@@ -2,7 +2,8 @@
 ## A repo for mint's robots code for biobuzz!!  ##
 ###########################################################################
 
-<img width="578" height="182" alt="ascii-text-art" src="https://github.com/user-attachments/assets/738c1fd2-4350-4b9a-8f07-2e44657e3994" />
+<img width="628" height="238" alt="ascii-text-art (1)" src="https://github.com/user-attachments/assets/350aed54-25db-4f86-a6f3-9d50093f15f8" />
+
 
  ############################################################################
 
