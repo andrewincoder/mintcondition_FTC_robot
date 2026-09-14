@@ -1,4 +1,5 @@
 # mintcondition_FTC_robot
+link to first ftc android app: https://github.com/andrewincoder/FtcRobotController_mintcondition_ftc_edina
 ## A repo for mint's robots code for biobuzz!!  ##
 
 <img width="1363" height="199" alt="ascii-art-text" src="https://github.com/user-attachments/assets/49cbffdb-492e-44d9-85d2-923d4bac3bfb" />
