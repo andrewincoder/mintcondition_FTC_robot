@@ -7,6 +7,8 @@
 
 link to realy good information on the Biobuzz season: https://www.youtube.com/@BroganMPratt  
 
+link to ROBONET: https://sites.google.com/view/edina-fte-club-site/home?pli=1&authuser=0
+
 link to the discord: https://discord.gg/eTFNVDd8X
 
 link to oneshape cad of the robot: https://cad.onshape.com/documents/3364d43b58eafdb2233e081e/w/007df431b7bd71d4dcdf562a/e/2ba2ef3c70a23a20a7d641b2  
